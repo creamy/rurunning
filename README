@@ -1,0 +1,12 @@
+RU RUNNING
+Waitman Gobble
+waitman@waitman.net
+NO WARRANTIES
+
+requires 
+php
+mongodb
+mongo php client
+
+This creates a service to run extcron jobs 
+
